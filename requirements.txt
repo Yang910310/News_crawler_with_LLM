@@ -1,0 +1,6 @@
+streamlit
+llama-index
+pandas
+requests
+beautifulsoup4
+lxml
