@@ -37,8 +37,8 @@
 1. 克隆此存儲庫或下載源代碼：
 
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone https://github.com/Yang910310/News_crawler_with_LLM.git
+   cd News_crawler_with_LLM
    ```
 
 2. 安裝必要的 Python 庫：
